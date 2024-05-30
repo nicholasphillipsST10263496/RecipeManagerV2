@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecipeManagerV2", "RecipeManagerV2\RecipeManagerV2.csproj", "{5F868E61-FD17-4194-95E7-5C5CB4C4F67D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecipeManagerV2.UnitTest", "RecipeManagerV2.UnitTest\RecipeManagerV2.UnitTest.csproj", "{C1CAF32A-731D-4EC4-B4F0-A4AD37DF9525}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F868E61-FD17-4194-95E7-5C5CB4C4F67D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F868E61-FD17-4194-95E7-5C5CB4C4F67D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F868E61-FD17-4194-95E7-5C5CB4C4F67D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F868E61-FD17-4194-95E7-5C5CB4C4F67D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1CAF32A-731D-4EC4-B4F0-A4AD37DF9525}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1CAF32A-731D-4EC4-B4F0-A4AD37DF9525}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1CAF32A-731D-4EC4-B4F0-A4AD37DF9525}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1CAF32A-731D-4EC4-B4F0-A4AD37DF9525}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C10079D5-C3C5-424B-B730-C0D9C23447AF}
+	EndGlobalSection
+EndGlobal
